@@ -1,0 +1,72 @@
+body {
+    background-color:red);
+    color: gold;
+    font-family: Chonburi;
+    }
+    h1{
+    color:black;
+    text-align:center;
+    font-family: Chonburi;
+    }
+    h2{
+        color: black;
+        font-family: Chonburi;
+    }
+    p{
+        color: gold;
+        font-family: Chonburi;
+    }
+    g{
+        color: greenyellow;
+        font-family: Chonburi;
+    }
+    li{
+        color: pink;
+        font-family: Chonburi;
+    }
+    dt {
+        color: pink;
+        font-family: Chonburi;
+    }
+    dd {
+        color: pink;
+        font-family: Chonburi;
+    }
+    a:link {
+        text-decoration: none;
+        font-family: Chonburi;
+    }
+    a:visited{
+        text-decoration: none;
+        font-family: Chonburi;
+    }
+    a:hover{
+        text-decoration: underline;
+        font-family: Chonburi;
+    }
+    a:active{
+        text-decoration: underline;
+        font-family: Chonburi;
+    }
+    a{
+     font-size: 30px;
+     font-family:Conburi;
+     border-radius: 20px:
+    }
+    a:link, a:visited {
+        background-color: red;
+        color:black;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration:none;
+        display: block;
+        border-radius: 20px 20px 20px 20px;
+        font-family: Chonburi;
+        
+      }
+      
+      a:hover, a:active {
+        background-color: gold;
+        border-radius: 0 0 0 0  ;
+        font-family: Chonburi;
+      }
